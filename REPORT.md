@@ -400,7 +400,7 @@ The restaurant's revenue potential lies in **maximizing weekend and dinner opera
 
 ---
 
-**Report Prepared:** Data Analytics Team  
+**Report Prepared:** Anila Bukhari  
 **Data Period:** Historical Tips Dataset  
 **Records Analyzed:** 244 transactions  
 **Analysis Completeness:** 100%
