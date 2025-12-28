@@ -1,2 +1,28 @@
 # ignore .venv directory
 ./.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+
+# Images & outputs
+*.png
+*.jpg
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
